@@ -12,7 +12,7 @@ status-website:
   baseUrl: /beor-upptime
   logoUrl: https://beor.pfaocle.co.uk/assets/img/logo.svg
   name: Son of Bëor Upptime
-  introTitle: "**Upptime** for Son of Bêor."
+  introTitle: "**Upptime** for Son of Bëor."
   introMessage: Son of Bëor status page using **real-time** data from our [Github repository](https://github.com/pfaocle/beor-upptime).
   navbar:
     - title: Status
