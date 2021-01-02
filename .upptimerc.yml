@@ -6,6 +6,8 @@ repo: beor-upptime # Your Github repository name
 sites:
   - name: Son of Bëor
     url: https://beor.pfaocle.co.uk
+  - name: pfaocle.co.uk
+    url: https://pfaocle.co.uk
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
