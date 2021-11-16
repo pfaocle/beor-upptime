@@ -4,9 +4,9 @@
     "url": "https://beor.pfaocle.co.uk",
     "icon": "https://favicons.githubusercontent.com/beor.pfaocle.co.uk",
     "slug": "son-of-beor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 252,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-07-13": 18
     }
   },
