@@ -24,17 +24,19 @@
     "url": "https://pfaocle.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/pfaocle.co.uk.ico",
     "slug": "pfaocle-co-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 508,
-    "timeWeek": 542,
-    "timeMonth": 645,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 306,
+    "timeDay": 628,
+    "timeWeek": 568,
+    "timeMonth": 649,
+    "timeYear": 330,
+    "dailyMinutesDown": {
+      "2025-01-30": 0
+    }
   }
 ]
