@@ -6,15 +6,15 @@
     "slug": "son-of-beor",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 351,
-    "timeDay": 2158,
-    "timeWeek": 1019,
-    "timeMonth": 661,
-    "timeYear": 388,
+    "timeDay": 388,
+    "timeWeek": 1007,
+    "timeMonth": 656,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2025-06-06": 24,
       "2025-03-01": 21
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 393,
-    "timeDay": 493,
-    "timeWeek": 511,
-    "timeMonth": 550,
+    "timeDay": 386,
+    "timeWeek": 510,
+    "timeMonth": 549,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-01-30": 34
